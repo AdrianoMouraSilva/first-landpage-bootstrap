@@ -1,7 +1,24 @@
+:root
+, [data-bs-theme=light] {
+
+    --bs-black-rgb: 255, 99, 71;
+    --bs-warning-rgb: 255, 99, 71;
+
+    /*
+    --b
+    g-primary: #A020F0;
+    --bg-seconday: #2a7423;
+   
+    --fs-line: '20px';
+    --family-roboto: ''
+    */
+}
+
+/*
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     text-decoration: none !important;
 }
-
+    */
